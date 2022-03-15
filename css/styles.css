@@ -88,7 +88,7 @@ p{
 /* Testimonials */
 
 #testimonials{
-    padding: 6rem 12rem;
+    
     text-align: center;
     background-color: #ef8172;
     color: #fff;
@@ -125,4 +125,23 @@ h2{
 
 .carousel-control-next{
     margin-left: 150px;
+}
+
+.carousel-item{
+    padding: 6rem 12rem;
+}
+
+/* Card Style */
+
+#pricing{
+    text-align: center;
+    padding: 3rem;
+}
+
+.card{
+    height: ;
+}
+
+.dog{
+    padding-bottom: 40px;
 }
