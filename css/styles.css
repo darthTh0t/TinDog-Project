@@ -53,13 +53,16 @@ body{
 
 /* Title Image */
 .title-image{
-    width: 60%;
+    width: 20%;
     transform: rotate(25deg);
+    position: absolute;
 }
 
 /* About-product */
 #features{
-    margin: 6rem 12rem;
+    padding: 6rem 12rem;
+    background-color: #fff;
+    position: relative;
 }
 
 .feature-box{
@@ -135,6 +138,7 @@ h2{
 
 #pricing{
     text-align: center;
+    margin-top: 2.5rem;
     padding: 3rem;
 }
 
